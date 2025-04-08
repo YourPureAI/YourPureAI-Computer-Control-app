@@ -1,5 +1,6 @@
 # Your Pure AI - Computer Control Application
 Application which you can use together with YourPureAI (https://mypureai.pro) to control actions on your computer by your AI Assistant and Agent.
+It is still work in progres but already successfully tested for command execution and some other actions.
 
 This project provides a suite of Python tools for creating and executing automated desktop workflows, referred to as "scenarios". It consists of two main parts:
 
